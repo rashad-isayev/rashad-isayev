@@ -3,4 +3,4 @@
 </p>
 
 # hi im rashad
-a software engineer based on azerbaijan doing competitive programming and self project development. i like touching grass in my free time
+i do lots of things like product development, entrepreneurship, and competitive programming. my main interest areas are ai/ml and education. i love researching.
