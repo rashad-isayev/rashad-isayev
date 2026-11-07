@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="326" viewBox="0 0 1000 326" role="img" aria-labelledby="title desc">
+  <title id="title">rashad's linux terminal</title>
+  <desc id="desc">a bash session. whoami returns rashad. cat about.txt displays rashad isayev and his interests in software, products, competitive programming, ai and education.</desc>
+  <defs>
+    <clipPath id="window"><rect x="1" y="1" width="998" height="324" rx="9"/></clipPath>
+  </defs>
+  <g clip-path="url(#window)">
+    <rect width="1000" height="326" fill="#171717"/>
+    <rect width="1000" height="42" fill="#2d2d2d"/>
+    <path d="M0 42h1000" stroke="#424242"/>
+    <g font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c4c4c4">
+      <text x="20" y="27">&gt;_</text>
+      <text x="500" y="27" text-anchor="middle">rashad@linux: ~</text>
+    </g>
+    <g fill="none" stroke="#bdbdbd" stroke-width="1.4">
+      <path d="M885 24h11"/>
+      <rect x="925" y="16" width="10" height="10"/>
+      <path d="m965 16 10 10m0-10-10 10"/>
+    </g>
+    <g font-family="'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="18" font-weight="400" fill="#d3d7cf">
+    <text x="28" y="82"><tspan fill="#8ae234">rashad@linux</tspan><tspan fill="#d3d7cf">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#d3d7cf">$ whoami</tspan></text>
+      <text x="28" y="110">rashad</text>
+    <text x="28" y="158"><tspan fill="#8ae234">rashad@linux</tspan><tspan fill="#d3d7cf">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#d3d7cf">$ cat about.txt</tspan></text>
+      <text x="28" y="186">rashad isayev</text>
+      <text x="28" y="214">software development / products / competitive programming</text>
+      <text x="28" y="242">curious about ai/ml, education &amp; research</text>
+    <text x="28" y="290"><tspan fill="#8ae234">rashad@linux</tspan><tspan fill="#d3d7cf">:</tspan><tspan fill="#729fcf">~</tspan><tspan fill="#d3d7cf">$ </tspan></text>
+      <rect x="201.44" y="274" width="11" height="21" fill="#d3d7cf"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="998" height="324" rx="9" fill="none" stroke="#464646"/>
+</svg>
